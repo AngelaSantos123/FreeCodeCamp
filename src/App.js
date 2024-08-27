@@ -25,7 +25,7 @@ const RandomQuoteMachine = () => {
       <div id="text">"{quote}"</div>
       <div id="author">- {author}</div>
       <button id="new-quote" onClick={handleNewQuote}>
-        Nueva cita
+        New Quote
       </button>
       <a
         id="tweet-quote"
